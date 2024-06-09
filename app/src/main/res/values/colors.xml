@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#59DA5D</color>
+
+    //Random Colors
+    <color name="color1">#2C9E75</color>
+    <color name="color2">#137C7C</color>
+    <color name="color3">#A33E2D</color>
+    <color name="color4">#913958</color>
+    <color name="color5">#DACC55</color>
+    <color name="color6">#03A9F4</color>
+    <color name="color7">#FF5722</color>
+    <color name="color8">#F44336</color>
+    <color name="color9">#8BC34A</color>
+
+
+</resources>
